@@ -1,0 +1,22 @@
+# Datos de pacientes (radiografías con nombres) y resultados derivados
+img/
+output/
+pasos/
+
+# Tesis original (no se redistribuye) y conversiones
+docs/Tesis*
+docs/tesis*
+*.pdf
+md.py
+
+# Entorno y caché
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Licencia (por ahora no se publica)
+LICENSE
+
+# Reglas locales de Claude Code
+CLAUDE.md
